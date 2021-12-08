@@ -1,2 +1,2 @@
 # Data-centric-Microservice-Identification
-Identification of microservices from database schema ofthe autopart monolothicsystem
+Identification of microservices from database schema of the autopart monolothicsystem
